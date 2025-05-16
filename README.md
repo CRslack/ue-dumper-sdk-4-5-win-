@@ -9,7 +9,8 @@ https://github.com/GoLang1337/UE4Dumper-Kernel?tab=readme-ov-file
 
 https://github.com/Encryqed/Dumper-7
 此项目为dll注入游戏进程，利用特征码和findobject 修复结构并获取所有偏移，对于没有加密的游戏基本能做到通杀，注意在某些反作弊中检测线程和需要内核注入
-![)$9()_OTREMZQ(O`YID7(W7   9美元()_OTREMZQ(或'YID7 (W7](https://github.com/user-attachments/assets/2efd89a5-812b-4cd1-82ce-7b5a7aa290e5)_OTREMZQ ![) 9美元()(或'YID7 (W7] (https://github.com/user-attachments/assets/2efd89a5-812b-4cd1-82ce-7b5a7aa290e5)
+![)$9()_OTREMZQ(O`YID7(W7](https://github.com/user-attachments/assets/d1e559b7-4847-40ea-9247-85a7ec45cd50)
+
 
 
 https://github.com/Spuckwaffel/UEDumper
@@ -17,4 +18,4 @@ https://github.com/Spuckwaffel/UEDumper
 
 
 
-我的项目为UnrealDumper-4.25 +blackbone -> 只需要加载驱动即可使用。我的项目为UnrealDumper-4.25  blackbone -> 只需要加载驱动即可使用。
+我的项目为UnrealDumper-4.25 +blackbone 进行整合与修改 -> 只需要加载驱动即可使用。
